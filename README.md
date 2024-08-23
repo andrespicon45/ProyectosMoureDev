@@ -1,2 +1,2 @@
 # ProyectosMoureDev
-En este repositorio se almacenaran los proyectos propuestos en Retos de Programacion by MoureDev
+En este repositorio se almacenaran los proyectos propuestos en Retos de Programacion by MoureDev. Espero les gusten.
